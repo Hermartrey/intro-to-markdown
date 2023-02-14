@@ -28,3 +28,7 @@ We can add triple hypens to be able to create a horizontal rule for separate con
 
 Another way to add __Horizontal Rule__ int our document markdown is by using three underscore.
 ___
+
+<!--escaping character Rule using backslash-->
+this is an example of a *text with an asterisk*, when we don't want it to be italicized. We want to use \ backslash to escape the rule of using opening \*asterisk* and closing \*asterisk* to enclose the content.
+---
