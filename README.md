@@ -31,4 +31,10 @@ ___
 
 <!--escaping character Rule using backslash-->
 this is an example of a *text with an asterisk*, when we don't want it to be italicized. We want to use \ backslash to escape the rule of using opening \*asterisk* and closing \*asterisk* to enclose the content.
+
 ---
+<!--Bl0ckquote Rule-->
+
+> We use greater than symbol to display a block of text as a quote with a background and line on the left side.
+
+> *"You don't have to be great to start, but you have to start to be great"* - __Unknown Author__
