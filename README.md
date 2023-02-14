@@ -21,3 +21,10 @@ This is an example of **stronng text**, anthing between the opening asterisk and
 This is another example of a way to have __strong text__ in our document. Anything between the double opening underscore and closing underscore will be displayed as __strong text__
 <!--strike through-->
 This is an example of ~~strike through~~, anything between the doulble opening tilde and closing tilde wll be displayed as ~~strike through~~ text
+
+---
+<!--Horizontal Rule-->
+We can add triple hypens to be able to create a horizontal rule for separate content.
+
+Another way to add __Horizontal Rule__ int our document markdown is by using three underscore.
+___
