@@ -43,3 +43,7 @@ this is an example of a *text with an asterisk*, when we don't want it to be ita
 <!--Links Rule-->
 **NOTE:** we would want to put the link description inside of the square brakets and the link to the resource inside the open and close parenthesis
 [hermart's pexel account](https://www.pexels.com/@hermart-rey-torreon-455904153/)
+
+---
+**NOTE:** we can add a baloon tip description to our link by using double quote after the link to the resource
+[hermart's pexel account](https://www.pexels.com/@hermart-rey-torreon-455904153/ "this will take you to hermart pexel account")
