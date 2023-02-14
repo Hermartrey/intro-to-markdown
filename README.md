@@ -38,3 +38,8 @@ this is an example of a *text with an asterisk*, when we don't want it to be ita
 > We use greater than symbol to display a block of text as a quote with a background and line on the left side.
 
 > *"You don't have to be great to start, but you have to start to be great"* - __Unknown Author__
+
+---
+<!--Links Rule-->
+**NOTE:** we would want to put the link description inside of the square brakets and the link to the resource inside the open and close parenthesis
+[hermart's pexel account](https://www.pexels.com/@hermart-rey-torreon-455904153/)
