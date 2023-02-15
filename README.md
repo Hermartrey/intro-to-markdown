@@ -100,3 +100,9 @@ this is an example of a *text with an asterisk*, when we don't want it to be ita
      5.1 this is our list item 5 child item 1
   
      5.2 this is our list item 5 child item 2
+
+---
+<!--Code block with inline example rule-->
+
+**NOTE:** *__Backticks__ will allow us to show the code block and paragraph tags in this example. it is located below the telda character and on top of tab key.*
+`<p> this is a paragraph with an inline code block example opening and closing tag</p>`
