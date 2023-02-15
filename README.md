@@ -106,3 +106,17 @@ this is an example of a *text with an asterisk*, when we don't want it to be ita
 
 **NOTE:** *__Backticks__ will allow us to show the code block and paragraph tags in this example. it is located below the telda character and on top of tab key.*
 `<p> this is a paragraph with an inline code block example opening and closing tag</p>`
+
+---
+<!--Image of a dog-->
+
+[dog image](https://www.newshub.co.nz/home/lifestyle/2019/11/dog-years-are-a-myth-2-year-old-dogs-already-middle-aged-scientists/_jcr_content/par/video/image.dynimg.1280.q75.jpg/v1574572358818/GETTY-labrador-puppy-1120.jpg "link to image")
+
+---
+<!-- Github flavor set of code blocks-->
+
+```
+npm install
+
+npm start
+```
