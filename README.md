@@ -47,3 +47,56 @@ this is an example of a *text with an asterisk*, when we don't want it to be ita
 ---
 **NOTE:** we can add a baloon tip description to our link by using double quote after the link to the resource
 [hermart's pexel account](https://www.pexels.com/@hermart-rey-torreon-455904153/ "this will take you to hermart pexel account")
+
+---
+<!--List item rule-->
+
+<!--Unordered list-->
+
+* item 1: This is going to be our list item 1
+  * this is our list item 1 child item 1
+  * this is our list item 2 child item 2
+* item 2: This is going to be our list item 2
+  * this is our list item 2 child item 1
+  * this is our list item 2 child item 2
+* item 3: This is going to be our list item 3
+  * this is our list item 3 child item 1
+  * this is our list item 3 child item 2
+* item 4: This is going to be our list item 4
+  * this is our list item 4 child item 1
+  * this is our list item 4 child item 2
+* item 5: This is going to be our list item 5
+  * this is our list item 5 child item 1
+  * this is our list item 5 child item 2
+
+<!--Ordered list-->
+
+1. item 1: This is going to be our list item 1
+
+     1.1 this is our list item 1 child item 1
+  
+     1.2 this is our list item 2 child item 2
+  
+2. item 2: This is going to be our list item 2
+
+     2.1 this is our list item 2 child item 1
+  
+      2.2 this is our list item 2 child item 2
+  
+3. item 3: This is going to be our list item 3
+  
+      3.1 this is our list item 3 child item 1
+  
+      3.2 this is our list item 3 child item 2
+
+4. item 4: This is going to be our list item 4
+
+     4.1 this is our list item 4 child item 1
+  
+     4.2 this is our list item 4 child item 2
+
+5. item 5: This is going to be our list item 5
+
+     5.1 this is our list item 5 child item 1
+  
+     5.2 this is our list item 5 child item 2
