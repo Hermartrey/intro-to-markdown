@@ -139,3 +139,13 @@ public static int Sum(int num1, int num2){
  return total;
 }
 ```
+
+---
+
+<!--Table rules-->
+
+| Name           | NickName  | Email                    |
+|----------------|-----------|--------------------------|
+|hermartrey      | beboy     | hermartreyt@gmail.com    |
+|ellanah grace   | bechay    | ellanah@gmail.com        |
+|charlie may     | Mai2x     | charliemay@gmail.com     |
